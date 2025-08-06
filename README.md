@@ -6,6 +6,7 @@ Track the list of things that we need to do and also share snippets aswell.
 ## Race system
 - [ ] Timer
 - [ ] Timer will either be 'Next race in ...', 'Race starting in ...', or 'Race ending in ...'
+- [ ] Join button will only show once it says 'Race starting in ...' and then will disappear once clicked or once it starts/ends
 - [ ] Teleportation
 
 ## Other
