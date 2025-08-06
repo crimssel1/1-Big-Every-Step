@@ -12,3 +12,6 @@ Track the list of things that we need to do and also share snippets aswell.
 ## Other
 - [ ] Make teleporting when falling below map server sided rather than client sided, fixes the issue when you are too far away for stuff to be rendered on the client.
 - [ ] If the player that joins never played before show "@... joined the game for the first time!"
+
+## Bugs
+- [ ] A few of the multiplier prices in the button and the buying prompt price are not the same.
