@@ -12,6 +12,7 @@ Track the list of things that we need to do and also share snippets aswell.
 ## Other
 - [ ] If the player that joins never played before show "@... joined the game for the first time!"
 - [ ] Friend boosts, +0.1x size multiplier each friend, shows at bottom left or right
+- [ ] "... just prestiged to 15!" chat messages
 
 ## Bugs
 - [ ] A few of the multiplier prices in the button and the buying prompt price are not the same.
